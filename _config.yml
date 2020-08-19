@@ -1,2 +1,4 @@
 name: ShaoLong Wang
 theme: jekyll-theme-hacker
+
+permalink: /blog/:year/:month/:day/:title
